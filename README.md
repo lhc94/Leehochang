@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=C7A48B&height=300&section=header&textBh-363636&text=Hochang%20Lee&fontSize=90" />
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=C7A48B&height=300&section=header&textBh-363636&text=Hochang%20Lee&fontSize=90" />
+</div>
 
-
-
-### <div align=center>🛠Tech Stack🛠</div>
+<div align=center><h2>🛠Tech Stack🛠</h2></div>
 <br>
 <br>
 
@@ -32,6 +32,6 @@
 <br>
 <br>
 <div align=center>
-🍏hochang.log 🍏https://velog.io/@ds032 
+  <h2>🍏hochang.log 🍏https://velog.io/@ds032</h2>
 </div>
 
